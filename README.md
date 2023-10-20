@@ -42,7 +42,7 @@ We also visualized the number of movies in each movie genres as also shown in th
 We trained some models for the collaborative filtering method of recommendation and the SVD (Sigular Value Decomposition) perfomred best using RSME score as a metric and was used in the streamlit app for demonstration of how the model works. We used comet to track the experiments using different models and the result is shown in the chart below: 
 
 <p align = 'center'>
-<img width = '800' height = '600' src = "https://github.com/obinnameso/movie_recommender_project/blob/main/imgs/comet_experiment.png?raw=true">
+<img width = '700' height = '500' src = "https://github.com/obinnameso/movie_recommender_project/blob/main/imgs/comet_experiment.png?raw=true">
 </p> <br> 
 
 ## Conclusion 
