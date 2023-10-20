@@ -27,7 +27,11 @@ pip install -U matplotlib numpy pandas scikit-learn <br>
 
 ## Result 
 
+Having done a thorough EDA on the dataset, we visualized the ratings in the given dataset as shown in the chart below:
 
+<p align = 'center'>
+<img src = "https://github.com/obinnameso/movie_recommender_project/blob/main/imgs/ratings_dist.png?raw=true">
+</p>
 
 ## Recommendation 
 
