@@ -33,6 +33,12 @@ Having done a thorough EDA on the dataset, we visualized the ratings in the give
 <img src = "https://github.com/obinnameso/movie_recommender_project/blob/main/imgs/ratings_dist.png?raw=true">
 </p>
 
+We also visualized the number of movies in each movie genres as also shown in the chart below: 
+
+<p align = 'center'>
+<img src = "https://github.com/obinnameso/movie_recommender_project/blob/main/imgs/movie_count_by_genre.png?raw=true">
+</p>
+
 ## Recommendation 
 
 1. The unsupervised learning-based movie recommendation system has proven to be highly useful and effective in providing personalized movie suggestions to users. By leveraging collaborative filtering and matrix factorization techniques, the recommender successfully identified similar users and movies, offering tailored recommendations based on individual preferences and viewing history.
