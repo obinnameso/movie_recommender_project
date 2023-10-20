@@ -39,7 +39,13 @@ We also visualized the number of movies in each movie genres as also shown in th
 <img src = "https://github.com/obinnameso/movie_recommender_project/blob/main/imgs/movie_count_by_genre.png?raw=true">
 </p>
 
-## Recommendation 
+We trained some models for the collaborative filtering method of recommendation and the SVD (Sigular Value Decomposition) perfomred best using RSME score as a metric and was used in the streamlit app for demonstration of how the model works. We used comet to track the experiments using different models and the result is shown in the chart below: 
+
+<p align = 'center'>
+<img src = "https://github.com/obinnameso/movie_recommender_project/blob/main/imgs/comet_experiment.png?raw=true">
+</p> <br> 
+
+## Conclusion 
 
 1. The unsupervised learning-based movie recommendation system has proven to be highly useful and effective in providing personalized movie suggestions to users. By leveraging collaborative filtering and matrix factorization techniques, the recommender successfully identified similar users and movies, offering tailored recommendations based on individual preferences and viewing history.
 
